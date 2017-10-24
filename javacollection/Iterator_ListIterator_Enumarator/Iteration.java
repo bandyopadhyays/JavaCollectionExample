@@ -102,7 +102,7 @@ public class Iteration {
 		llist1.add("String");
 		llist1.add(true);
 		System.out.println("List is - "+llist1);
-		ListIterator itr5 = llist1.listIterator();
+		ListIterator <Object> itr5 = llist1.listIterator();
 		while(itr5.hasNext()) {
 			System.out.println(itr5.next());
 			//itr2.remove();
