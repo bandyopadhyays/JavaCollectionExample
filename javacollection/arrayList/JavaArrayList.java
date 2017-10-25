@@ -13,7 +13,7 @@ public class JavaArrayList {
 	 * ArrayList allows random access since array works on index Data
 	 * manipulation is slow as once data deleted lots of shifting need to be
 	 * performed.
-	 * 
+	 * allows to add null.
 	 * Collection does not entertain premetive data types. internally it use Integer.parseint -> for int
 	 **/
 
@@ -33,6 +33,7 @@ public class JavaArrayList {
 		li2.add(1);
 		li2.add(5);
 		li2.add(3);
+		li2.add(null);
 		System.out.println("Printing li2 " + li2);
 
 		// Create generic array list with different data type.
