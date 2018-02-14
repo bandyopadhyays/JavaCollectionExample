@@ -10,7 +10,7 @@ import java.util.Set;
  * HashSet does not maintain insertion order
  * HashSet does not allow duplicate data 
  * HashSet methods are similar to list classes.
- * allows to add null.
+ * Allows to add null.
  * set does not have any method get() like list.
  */
 

@@ -38,6 +38,7 @@ Iterator also.
     	vector.add('c');
     	vector.add("String");
     	vector.add(2.8);
+    	vector.add(null);
     	System.out.println(vector);
     	// to clear collection ->
     	vector.clear();
