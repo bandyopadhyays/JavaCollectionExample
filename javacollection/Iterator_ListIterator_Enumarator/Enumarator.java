@@ -17,7 +17,7 @@ import java.util.Vector;
 
 public class Enumarator {
 	/**
-	 * addelement method serve the same as add add comes with list interface
+	 * add element method serve the same as add add comes with list interface
 	 * where as addelement in vector class method.
 	 * 
 	 */
@@ -39,7 +39,7 @@ public class Enumarator {
 		v.add(false);
 
 		// since enumaration is fail safe you can use that but it will print the
-		// newly added elements. because poinet will be on last element.
+		// newly added elements. because pointer will be on last element.
 
 		while (en.hasMoreElements()) {
 			System.out.println(en.nextElement());

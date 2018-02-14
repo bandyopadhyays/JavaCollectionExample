@@ -1,0 +1,14 @@
+List ->
+
+Array List -> implements list interface
+			  allows null value
+			  maintain order
+LinkedList -> similar to array list
+			  it implements double link list
+			  allows null value
+vector ->	  Is thread safe
+			  synchronized
+			  
+Set -> 
+
+ 

@@ -92,7 +92,7 @@ public class Iteration {
 			System.out.println(itr4.previous());
 			//itr4.remove();
 		}
-		System.out.println("------------------end of array list example ---------------------");
+		System.out.println("------------------ end of array list example ---------------------");
 		
 		// example of List Iterator with LinkedList
 		List<Object> llist1 = new LinkedList<Object>();

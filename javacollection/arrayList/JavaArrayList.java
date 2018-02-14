@@ -7,7 +7,7 @@ import java.util.List;
 
 public class JavaArrayList {
 	/**
-	 * ArrayList is a class implements List interface. Array list
+	 * ArrayList is a class which implements List interface. Array list
 	 * increase/decrease its size dynamically upon adding or deleting elements.
 	 * ArrayList maintains its insertion order. ArrayList in non synchronized
 	 * ArrayList allows random access since array works on index Data
@@ -19,7 +19,7 @@ public class JavaArrayList {
 
 	public static void main(String[] args) {
 		// Create non generic ArrayList
-		// non generic array list will have a warning of rawtype since data time
+		// non generic array list will have a warning of rawtype since data type
 		// has not provided.
 		List li1 = new ArrayList();
 		li1.add(2);
@@ -63,7 +63,7 @@ public class JavaArrayList {
 		li4.add(90);
 		li4.add(31);
 		li4.add(72);
-		System.out.println("Printing li2 " + li4);
+		System.out.println("Printing li4 " + li4);
 
 		// getting/traversing all value of Array list.
 		// option one :- using iterator
