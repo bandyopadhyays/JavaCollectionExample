@@ -1,14 +1,27 @@
 List ->
 
-Array List -> implements list interface
-			  allows null value
-			  maintain order
-LinkedList -> similar to array list
-			  it implements double link list
-			  allows null value
-vector ->	  Is thread safe
-			  synchronized
+Array List -> 	implements list interface
+			  	allows null value
+			  	maintain order
+LinkedList -> 	similar to array list
+			  	it implements double link list
+			  	allows null value
+vector ->	  	Is thread safe
+			  	synchronized
 			  
 Set -> 
 
+HashSet ->    	implements set interface
+			  	allows null value
+			  	does not maintain insertion order
+			  	does not allows duplicate character
+
+LinedHashSet ->	Similar to set
+				Maintain insertion order -- IMP
+				Allows null value
+				
+TreeSet -> 		does not allow duplicate value
+				does not allow null value -- IMP
+				access and retrieve quite fast as it implements navigable set
+				
  
