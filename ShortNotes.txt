@@ -28,5 +28,18 @@ TreeSet -> 			does not allow duplicate value
 				first() method to get first data
 				last() method will get the last data
 				
+Map ->				
+
+HashMap ->			Implements MAP interface
+				Stores value in key value pair format
+				no duplicate key
+				allows one null key
+				no insertion order
+				
+LinkedHashMap ->		Similar to map. 
+				Maintain insertion order
+				
+TreeMap ->			similar to map
+				maintain ascending order. 
 				
  
